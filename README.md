@@ -1,0 +1,2 @@
+# PREDICTIVE-ANALYSIS-FOR-FOOD-DELIVERY-AND-OPTIMIZATION
+Our project leverages machine learning to predict food delivery times, utilizing the XGBoost algorithm for optimal performance. By thoroughly cleaning and preprocessing data, and engineering meaningful features, we have developed a robust solution aimed at enhancing operational efficiency and customer satisfaction in the food delivery industry.
